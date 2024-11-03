@@ -1,4 +1,4 @@
-# RealTime-Chat-Application
+
 # Real-Time Chat Application
 
 This is a **Real-Time Chat Application** built using **React**, **Node.js**, **Socket.io**, and **MongoDB**. The application allows users to register, log in, and engage in real-time conversations. Users can view their chat history and see which friends are online.
